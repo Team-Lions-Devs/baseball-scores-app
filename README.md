@@ -1,1 +1,1 @@
-# baseball_task_project
+# Baseball Scores App
